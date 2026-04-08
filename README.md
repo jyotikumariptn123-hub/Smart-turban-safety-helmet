@@ -27,9 +27,10 @@ The research analyzes accident statistics, injury patterns, and safety gaps affe
 - [Device Architecture](#device-architecture)
 - [Key Features](#key-features)
 - [Advantage](#Advantages)
+- [System Workflow](#System-Workflow)
 - [Future Improvement](#Future-Improvements)
 - [Related Projects](#Related-Projects)
-- [Related Projects](#related-projects)
+- [Future Work](#Future-Work)
 - [Author](#author)
 - [License](#license)
 ## Project Files
