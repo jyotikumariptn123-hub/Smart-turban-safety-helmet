@@ -136,3 +136,10 @@ A research project analyzing the **high cost of international competitive exams*
 Research developed by Jyoti
 
 Independent research on inclusive road safety technology.
+
+## License
+
+This research project is shared for academic and educational purposes.
+
+© 2026 Jyoti
+Permission is granted to read, reference, and cite this research with proper attribution to the author.
