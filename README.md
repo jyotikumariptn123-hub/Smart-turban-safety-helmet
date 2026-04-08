@@ -29,16 +29,12 @@ The proposed device consists of several layers:
 
 ## 1.Outer Protective Layer
 Carbon-fiber composite shell that distributes impact force.
-
 ## 2.Impact Detection Module
 Sensors such as accelerometers and gyroscopes detect sudden crashes.
-
 ## 3.Control Processing Unit
 Microcontroller analyzes sensor data and activates the safety mechanism.
-
 ## 4.Rapid Deployment Protection System
 Inflatable or expandable protective structure that forms a helmet-like shield.
-
 ## 5.Inner Cushioning Layer
 Shock-absorbing foam that reduces head injury risk.
 
