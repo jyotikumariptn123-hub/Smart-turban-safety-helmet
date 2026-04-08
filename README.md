@@ -10,7 +10,7 @@ A smart safety solution designed to protect Sikh riders who wear turbans and can
 
 A conceptual safety system designed to protect Sikh motorcyclists who wear turbans and cannot use traditional helmets.
 
-## Smart Turban Safety System (IRTG)
+
 
 ## Overview
 
