@@ -26,7 +26,7 @@ The research analyzes accident statistics, injury patterns, and safety gaps affe
 - [Proposed Solution](#proposed-solution)
 - [Device Architecture](#device-architecture)
 - [Key Features](#key-features)
-- [Project Resources](#project-resources)
+- [Advantage](#Advantage)
 - [Related Projects](#related-projects)
 - [Author](#author)
 - [License](#license)
