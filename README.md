@@ -9,6 +9,9 @@ This repository contains the research and conceptual design of the Impact-Respon
 
 The research analyzes accident statistics, injury patterns, and safety gaps affecting turban-wearing riders and proposes a sensor-based protective system integrated within the turban.
 
+![download (2)](https://github.com/user-attachments/assets/8e305612-c01a-43c2-bf56-34698bbe4710)
+
+
 ## Content
 ## Project Files
 
