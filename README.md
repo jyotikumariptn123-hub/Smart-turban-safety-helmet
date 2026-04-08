@@ -169,5 +169,5 @@ This research project is shared for academic and educational purposes.
 © 2026 Jyoti
 Permission is granted to read, reference, and cite this research with proper attribution to the author.
 
-Keywords: Road Safety, Sikh Riders, Turban Safety, Smart Helmet,
+*Keywords: Road Safety, Sikh Riders, Turban Safety, Smart Helmet,
 Wearable Safety Technology, Motorcycle Accident Prevention
