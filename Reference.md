@@ -60,11 +60,7 @@ Experimental development of impact-resistant turban designs aimed at improving r
 
 ---
 
-## Related Project
 
-This research is conceptually connected to another educational technology project developed by the author:
-
-**Study Genie (StudyJourney)** – An AI-based application that generates study questions for students based on their class, subject, and topic.
 
 GitHub Repository:
 https://github.com/jyotikumariptn123-hub/Study-Genie
