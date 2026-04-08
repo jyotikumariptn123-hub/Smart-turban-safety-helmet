@@ -1,6 +1,15 @@
 # Smart-turban-safety-helmet
 A smart safety solution designed to protect Sikh riders who wear turbans and cannot use traditional helmets.
 
+# Impact-Responsive Turban Guard (IRTG)
+
+![Research Project](https://img.shields.io/badge/Type-Research%20Project-blue)
+![Status](https://img.shields.io/badge/Status-Concept%20Design-green)
+![Field](https://img.shields.io/badge/Field-Road%20Safety-orange)
+![Author](https://img.shields.io/badge/Author-Jyoti-purple)
+
+A conceptual safety system designed to protect Sikh motorcyclists who wear turbans and cannot use traditional helmets.
+
 ## Smart Turban Safety System (IRTG)
 
 ## Overview
@@ -50,14 +59,6 @@ Studies show that head injuries account for a large percentage of motorcycle fat
 The IRTG is a conceptual safety device designed to be integrated within or around a turban. It uses modern sensor technology and rapid-deployment protection to provide head safety during accidents.
 <img width="1536" height="1024" alt="Impact-responsive turban guard diagram" src="https://github.com/user-attachments/assets/1758d7b6-1ef1-483b-884d-eef8d4e9be23" />
 
-# Impact-Responsive Turban Guard (IRTG)
-
-![Research Project](https://img.shields.io/badge/Type-Research%20Project-blue)
-![Status](https://img.shields.io/badge/Status-Concept%20Design-green)
-![Field](https://img.shields.io/badge/Field-Road%20Safety-orange)
-![Author](https://img.shields.io/badge/Author-Jyoti-purple)
-
-A conceptual safety system designed to protect Sikh motorcyclists who wear turbans and cannot use traditional helmets.
 
 
 ## *Key Idea
