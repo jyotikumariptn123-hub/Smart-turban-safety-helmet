@@ -9,9 +9,8 @@ This repository contains the research and conceptual design of the Impact-Respon
 
 The research analyzes accident statistics, injury patterns, and safety gaps affecting turban-wearing riders and proposes a sensor-based protective system integrated within the turban.
 
-![download (2)](https://github.com/user-attachments/assets/8e305612-c01a-43c2-bf56-34698bbe4710)
+![download (2)](https://github.com/user-attachments/assets/8e305612-c01a-43c2-bf56-34698bbe4710) 
 
-![download (1)](https://github.com/user-attachments/assets/d1b287f2-e104-43ba-a548-ff2a635593c5)
 
 
 ## Content
@@ -30,6 +29,8 @@ Studies show that head injuries account for a large percentage of motorcycle fat
 ## Proposed Solution: Impact-Responsive Turban Guard (IRTG)
 
 The IRTG is a conceptual safety device designed to be integrated within or around a turban. It uses modern sensor technology and rapid-deployment protection to provide head safety during accidents.
+<img width="1536" height="1024" alt="Impact-responsive turban guard diagram" src="https://github.com/user-attachments/assets/1758d7b6-1ef1-483b-884d-eef8d4e9be23" />
+
 
 ## *Key Idea
 
@@ -49,6 +50,9 @@ Microcontroller analyzes sensor data and activates the safety mechanism.
 Inflatable or expandable protective structure that forms a helmet-like shield.
 ## 5.Inner Cushioning Layer
 Shock-absorbing foam that reduces head injury risk.
+
+<img width="1536" height="1024" alt="Cross-sectional view of Impact-Responsive Turban Guard" src="https://github.com/user-attachments/assets/bd076af8-f1cd-4b2d-9721-26e51ab12c4a" />
+
 
 ## Key Features
 -Sensor-based accident detection
