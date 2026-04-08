@@ -62,5 +62,3 @@ Experimental development of impact-resistant turban designs aimed at improving r
 
 
 
-GitHub Repository:
-https://github.com/jyotikumariptn123-hub/Study-Genie
