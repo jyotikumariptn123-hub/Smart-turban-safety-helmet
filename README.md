@@ -14,9 +14,7 @@ The research analyzes accident statistics, injury patterns, and safety gaps affe
 
 - 📄 [View Research Paper](Sikh_Motorcycle_Safety_Research_Paper.pdf)
 - 📚 [View References](Reference.md)
-- 🧠 [Device Architecture Diagram]
-- (<img width="1536" height="1024" alt="Cross-sectional view of Impact-Responsive Turban Guard" src="https://github.com/user-attachments/assets/ccac52dd-a42f-4045-a2b7-f8db8b1bd0fb" />
-)
+
 
 ## Problem Statement
 
