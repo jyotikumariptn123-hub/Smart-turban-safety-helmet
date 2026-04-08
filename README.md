@@ -92,6 +92,18 @@ Shock-absorbing foam that reduces head injury risk.
 
 -Can integrate with emergency response systems
 
+## System Workflow
+
+1. Sensors monitor sudden motion or collision.
+ 
+2. Microcontroller analyzes the sensor data.
+ 
+3. If an accident is detected, the protection system activates.
+  
+4. The inflatable protective layer deploys around the head.
+ 
+5. Optional emergency alert is sent with GPS location.
+
 ## Future Improvements
 -AI-based crash detection algorithms
 
@@ -102,6 +114,18 @@ Shock-absorbing foam that reduces head injury risk.
 -Modular design for different turban styles
 
 -Real-world prototype testing and certification
+
+## Future Work
+
+- Real prototype development
+  
+- Testing with impact simulations
+  
+- AI-based crash detection
+  
+- Lightweight composite materials
+
+ 
 
 ## Research Paper
 
@@ -143,3 +167,6 @@ This research project is shared for academic and educational purposes.
 
 © 2026 Jyoti
 Permission is granted to read, reference, and cite this research with proper attribution to the author.
+
+Keywords: Road Safety, Sikh Riders, Turban Safety, Smart Helmet,
+Wearable Safety Technology, Motorcycle Accident Prevention
