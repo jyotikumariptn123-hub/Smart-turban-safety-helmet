@@ -18,6 +18,18 @@ The research analyzes accident statistics, injury patterns, and safety gaps affe
 
 
 ## Content
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Proposed Solution](#proposed-solution)
+- [Device Architecture](#device-architecture)
+- [Key Features](#key-features)
+- [Project Resources](#project-resources)
+- [Related Projects](#related-projects)
+- [Author](#author)
+- [License](#license)
 ## Project Files
 
 - 📄 [View Research Paper](Sikh_Motorcycle_Safety_Research_Paper.pdf)
