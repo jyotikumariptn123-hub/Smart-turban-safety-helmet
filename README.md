@@ -142,6 +142,14 @@ Shock-absorbing foam that reduces head injury risk.
 
 The full research paper explaining the problem, methodology, statistical analysis, and proposed device design is included in this repository.
 
+## *Why This Research Matters?
+
+Motorcycle accidents are one of the leading causes of road fatalities worldwide. 
+For Sikh riders who wear turbans, traditional helmets cannot always be used due to religious practices.
+
+This research explores an alternative protective solution that respects cultural identity while improving rider safety. 
+The goal is to inspire future engineering solutions that make road safety more inclusive.
+
 ## Related Projects
 
 This research is connected with other educational and technological projects developed by the author.
