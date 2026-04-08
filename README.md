@@ -11,6 +11,8 @@ The research analyzes accident statistics, injury patterns, and safety gaps affe
 
 ![download (2)](https://github.com/user-attachments/assets/8e305612-c01a-43c2-bf56-34698bbe4710)
 
+![download (1)](https://github.com/user-attachments/assets/d1b287f2-e104-43ba-a548-ff2a635593c5)
+
 
 ## Content
 ## Project Files
